@@ -2,7 +2,7 @@
 
 A Restaurant Review Web App
 
-## Play it here
+## View it here
 
 
 https://brienyll.github.io/restaurant-review/
