@@ -5,7 +5,7 @@ A Restaurant Review Web App
 ## View it here
 
 
-https://brienyll.github.io/restaurant-reviews/
+https://brienyll.github.io/restaurant-review/
 
 ## Screenshot
 
