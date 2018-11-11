@@ -9,7 +9,7 @@ https://brienyll.github.io/restaurant-review/
 
 ## Screenshot
 
-![ScreenShot](https://github.com/Brienyll/Arcade-Game/blob/master/Screen-Shot-RR.png)
+![ScreenShot](https://github.com/Brienyll/restaurant-reviews/blob/master/Screen-Shot-RR.png)
 
 ## Meta
 
