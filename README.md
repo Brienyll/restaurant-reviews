@@ -13,7 +13,7 @@ https://brienyll.github.io/restaurant-review
 
 ## Meta
 
-Your Name – [@br1xxx](https://twitter.com/br1xxx) – brix.angeles@gmail.com
+Your Name – [@br1xxx](https://twitter.com/br1xxx)
 
 [https://github.com/Brienyll/restaurant-reviews](https://github.com/Brienyll/)
 
